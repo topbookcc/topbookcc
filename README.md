@@ -1,6 +1,6 @@
-<h1 align="center">✨ L.X.Q </h1>
+<h1 align="left">✨ L.X.Q </h1>
 
-<div align="center">
+<div align="left">
 
 [![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://topbookcc.github.io/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/topbookcc)
@@ -13,10 +13,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying on TJU
 - 🌱 I’m currently learning nlp and machine learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: To be or not to be.
 
