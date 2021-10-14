@@ -1,9 +1,9 @@
 <h1 align="left">✨ L.X.Q </h1>
 
-<div align="left">
+<div align="center">
+
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/topbookcc)
 [![](https://img.shields.io/badge/Blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white)](https://topbookcc.github.io/)
-
 </div>
 
 <p align="center">
