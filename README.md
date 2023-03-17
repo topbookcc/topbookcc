@@ -16,4 +16,7 @@
 - 🔭 I’m currently studying on TJU
 - 🌱 I’m currently learning nlp and machine learning
 - ⚡ Fun fact: To be or not to be.
+- 💻 contact me: topbookcc@outlook.com
+- 
+- 
 
